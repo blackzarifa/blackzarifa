@@ -2,7 +2,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats-3vs238yot-blackzarifa.vercel.app/api/top-langs/?username=blackzarifa&layout=compact&theme=tokyonight)](https://github.com/blackzarifa/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sandy-sigma-86.vercel.app/api/top-langs/?username=blackzarifa&layout=compact&theme=tokyonight)](https://github.com/blackzarifa/github-readme-stats)
 
 
 <!--
