@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<br>
+![Main Technologies](https://github-readme-tech-stack.vercel.app/api/cards?title=Main+Technologies&lineCount=2&theme=tokyonight&width=300&border=%23ffffff&line1=typescript%2Ctypescript%2C3178C6%3Bvuedotjs%2Cvue.js%2C4FC08D%3B&line2=vite%2Cvite%2C646CFF%3Bnextdotjs%2Cnext.js%2C000000%3B)
 
 [![Top Langs](https://github-readme-stats-e5pt.vercel.app/api/top-langs/?username=blackzarifa&layout=compact&theme=tokyonight)](https://github.com/blackzarifa/github-readme-stats)
 
