@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a Fullstack developer with a Computer Science degree who loves crafting web experiences. I enjoy working with modern technologies while keeping an eye on the backend side of things.
+Full-stack developer with a Computer Science background, dedicated to crafting high-quality web applications. I specialize in modern frontend frameworks while also actively developing backend systems.
 
 ## Tech Stack
 
