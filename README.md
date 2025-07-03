@@ -22,4 +22,5 @@ Full-stack developer with a Computer Science background, dedicated to crafting w
 
 #### Backend
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
