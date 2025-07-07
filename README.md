@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Full-stack developer with a Computer Science background, dedicated to crafting web applications. I specialize in frontend frameworks while also actively developing backend systems.
+Full-stack developer with a Computer Science background, dedicated to crafting web applications.
 
 ## Tech Stack
 
